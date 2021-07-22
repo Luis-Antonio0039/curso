@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "\"este es un test de aprendisaje de node\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run Lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Lite": "Lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis-Antonio0039/curso.git"
+  },
+  "author": "LUIS ANTONIO PALACIOS MONTUFAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luis-Antonio0039/curso/issues"
+  },
+  "homepage": "https://github.com/Luis-Antonio0039/curso#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
